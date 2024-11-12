@@ -5,5 +5,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/Spectrexf?style=for-the-badge&logo=github&logoColor=blue&labelColor=%23181717&color=green)
 
 
-- Git está totalmente controlado
+- Git está ya totalmente controlado
 
